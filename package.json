@@ -1,0 +1,21 @@
+{
+  "name": "JHU-Angular",
+  "version": "0.0.0",
+  "private": false,
+  "author": "Sudhir",
+  "devDependencies": {
+  },
+  "engines": {
+    "node": "6.9.1",
+    "npm": "3.10.8"
+  },
+  "scripts": {
+    "test": "grunt test",
+    "postinstall": "bower install"
+  },
+  "dependencies": {
+    "bower": "1.8.0",
+    "express": "4.13.3"
+  },
+  "cacheDirectories": ["node_modules"]
+}
