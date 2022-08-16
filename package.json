@@ -14,7 +14,7 @@
     "postinstall": "bower install"
   },
   "dependencies": {
-    "bower": "1.8.0",
+    "bower": ">=1.8.8",
     "express": "4.13.3"
   },
   "cacheDirectories": ["node_modules"]
